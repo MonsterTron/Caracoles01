@@ -1,4 +1,4 @@
-contractAddress="0x5c8ed3cc0f3aa7b734efff3764d4956cf630e91e" // MAINNET
+contractAddress="0xB212ba51b85Ecf2272e24422773e5127F3976022" // MAINNET
 
 /* WEB3 DETECTION */
 
